@@ -15,7 +15,9 @@ like GitHub too, format nicely as HTML.
 
 What does Git do when initialising a local repository?
 
-* Your answer here
+* 
+
+it create a '.git' directory with a database.
 
 
 ### Saving my changes
