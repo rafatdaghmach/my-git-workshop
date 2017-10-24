@@ -15,9 +15,9 @@ like GitHub too, format nicely as HTML.
 
 What does Git do when initialising a local repository?
 
-* 
+* It create a '.git' directory with a database.
+* Never delete the .git directory.
 
-it create a '.git' directory with a database.
 
 
 ### Saving my changes
